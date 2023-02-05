@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shapeatas.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shapebawah.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/warnaabu.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/warnagtb.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/warnagtr.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/warnaktb.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/warnaktr.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/warnan.xml" value="0.1475" />
+        <entry key="app/src/main/res/layout/activity_gtb.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/activity_gtr.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/activity_ktb.xml" value="0.28921356201171877" />
+        <entry key="app/src/main/res/layout/activity_ktr.xml" value="0.23233695652173914" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2897714472326094" />
+        <entry key="app/src/main/res/layout/activity_n.xml" value="0.2864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
